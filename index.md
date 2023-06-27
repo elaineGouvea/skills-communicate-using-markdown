@@ -14,3 +14,7 @@ Another code example:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+Step 4: Make a task list
+- [x] Finish Skills ingestion
+- [x] Complete intro to GitHub course
+- [ ] Complete markdown course
